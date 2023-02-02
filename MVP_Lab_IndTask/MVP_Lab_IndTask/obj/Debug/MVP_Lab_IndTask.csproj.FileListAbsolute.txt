@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\bin\Debug\MVP_Lab_IndTask.exe.config
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\bin\Debug\MVP_Lab_IndTask.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\bin\Debug\MVP_Lab_IndTask.pdb
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.Form1.resources
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.Properties.Resources.resources
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\MVP_Lab_IndTask\MVP_Lab_IndTask\obj\Debug\MVP_Lab_IndTask.pdb
